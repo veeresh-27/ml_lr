@@ -4,7 +4,7 @@ ML project created using linear regression for prediction
 
 Project link: https://veer-ml-lr.herokuapp.com/
 
-<img src="https://github.com/veeresh-27/ml_lr/blob/master/demo.png">
+<img src="https://github.com/veeresh-27/ml_lr/blob/main/demo.png">
 
 
 
