@@ -2,7 +2,7 @@
 ML project created using linear regression for prediction
 # Car Price Predictor
 
-Project link: https://veer-ml-lr.herokuapp.com/
+<h3>Project link: https://veer-ml-lr.herokuapp.com/<h3>
 
 <img src="https://github.com/veeresh-27/ml_lr/blob/main/demo.png">
 
